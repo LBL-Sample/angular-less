@@ -1,0 +1,23 @@
+{
+  "name": "@angular-less/core",
+  "version": "0.0.1",
+  "description": "angular-less/core",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBL-Sample/angular-less.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-less",
+    "study"
+  ],
+  "author": "BoyceLyu",
+  "dependencies": {
+    "tslib": "^1.7.1",
+    "rxjs": "^5.0.1"
+  },
+  "peerDependencies": {
+    
+    "zone.js": "^0.8.4"   
+  }
+}
